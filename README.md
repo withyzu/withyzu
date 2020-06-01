@@ -1,10 +1,6 @@
-# withyzu
-using earth;
-using Body;
-using Heart;
-
-public interface I
-{
-  void happy();
-  void sad();
-}
+#withyzu
+//objective: 
+//            * What am I?
+//            * Where I comm?
+//            * Where I go?
+//Seek the truth
